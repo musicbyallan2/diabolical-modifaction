@@ -1,10 +1,13 @@
 body {
  background: #3c3c3c;
   font-family: "serif";
-  text-align: center
+  text-align: center;
 }
  p, h2, h3, em, b {color: white;}
-.ok{
+.center{
+ margin-top: 130px ;
+ }
+.spacing{
  margin-right: 40px;
  margin-left: 40px;
 }
