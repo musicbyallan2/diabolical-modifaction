@@ -3,10 +3,8 @@ body {
   font-family: "serif";
   text-align: center
 }
- p, h1, h3, em, b {color: white;}
-.left{
- float:left
-}
-.right{
- float:fight
+ p, h2, h3, em, b {color: white;}
+.ok{
+ margin-right: 10px;
+ margin-left: 10px;
 }
