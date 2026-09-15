@@ -4,3 +4,9 @@ body {
   text-align: center
 }
  p, h1, h3, em, b {color: white;}
+.left{
+ float:left
+}
+.right{
+ float:fight
+}
