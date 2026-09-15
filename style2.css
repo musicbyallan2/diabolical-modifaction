@@ -5,6 +5,9 @@ body {
 }
  p, h2, h3, em, b {color: white;}
 .ok{
- margin-right: 10px;
- margin-left: 10px;
+ margin-right: 40px;
+ margin-left: 40px;
+}
+.left{
+ float:left
 }
